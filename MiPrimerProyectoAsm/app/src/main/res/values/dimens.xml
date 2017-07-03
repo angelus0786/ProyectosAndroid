@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edTxtBienvenido">30dp</dimen>
+    <dimen name="btEntrar">20sp</dimen>
+    <dimen name="txtBienvenido">25sp</dimen>
+    <dimen name="edTxtBienvenido1">20sp</dimen>
+    <dimen name="btEntrerar1">20sp</dimen>
+</resources>

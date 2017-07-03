@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiPrimerProyectoAsm</string>
+    <string name="edTxtBienvenido">Bienvenido</string>
+    <string name="btEntrar">Entrar</string>
+</resources>
